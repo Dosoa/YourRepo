@@ -1,0 +1,9 @@
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\bin\Debug\Dull_Lab_8.exe.config
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\bin\Debug\Dull_Lab_8.exe
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\bin\Debug\Dull_Lab_8.pdb
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\obj\Debug\Dull_Lab_8.csprojAssemblyReference.cache
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\obj\Debug\Dull_Lab_8.Properties.Resources.resources
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\obj\Debug\Dull_Lab_8.csproj.GenerateResource.cache
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\obj\Debug\Dull_Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\obj\Debug\Dull_Lab_8.exe
+C:\Users\farme\source\repos\Dull_Lab_8\Dull_Lab_8\obj\Debug\Dull_Lab_8.pdb
